@@ -6,5 +6,5 @@ It is only for learning purpose.
 Edit `cookie.py` http://your_website.com 
 Enter `python cookie.py`
 
-Add more values in hash.txt file. 
+Add more values in hash.txt file.
 
